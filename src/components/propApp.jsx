@@ -1,4 +1,4 @@
-import Welcome from "./propdemo";
+import Welcome from "./PropsBtap2";
 
 function App() {
     return (
